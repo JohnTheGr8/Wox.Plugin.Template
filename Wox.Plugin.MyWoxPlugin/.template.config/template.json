@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Ioannis G.",
+    "classifications": [ "Library", "Plugin", "Wox" ],
+    "name": "Plugin Library for the Wox launcher",
+    "identity": "Wox.Plugin",
+    "shortName": "wox-plugin",
+    "tags": {
+      "language": "C#",
+      "type":"project"
+    },
+    "sourceName": "MyWoxPlugin",
+    "preferNameDirectory": true
+}

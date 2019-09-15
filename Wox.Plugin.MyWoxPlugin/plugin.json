@@ -1,0 +1,12 @@
+{
+    "ID":"PluginId",
+    "ActionKeyword":"PluginActionKeyword",
+    "Name":"MyWoxPlugin",
+    "Description":"a new plugin for Wox",
+    "Author":"PluginAuthor",
+    "Version":"1.0.0",
+    "Language":"csharp",
+    "Website":"https://github.com/PluginAuthor/Wox.Plugin.MyWoxPlugin",
+    "IcoPath":"icon.png",
+    "ExecuteFileName":"Wox.Plugin.MyWoxPlugin.dll"
+}
