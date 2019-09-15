@@ -10,5 +10,25 @@
       "type":"project"
     },
     "sourceName": "MyWoxPlugin",
-    "preferNameDirectory": true
+    "preferNameDirectory": true,
+    "symbols":{
+      "pluginId": {
+        "type": "generated",
+        "generator": "guid",
+        "replaces":"PluginId",
+        "parameters": {
+            "format":"N"
+        }
+      },
+      "author": {
+        "type": "parameter",
+        "defaultValue": "",
+        "replaces":"PluginAuthor"
+      },
+      "keyword": {
+        "type": "parameter",
+        "defaultValue": "*",
+        "replaces":"PluginActionKeyword"
+      }
+    }
 }
