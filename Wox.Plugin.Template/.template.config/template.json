@@ -10,7 +10,7 @@
       "type":"project"
     },
     "sourceName": "MyWoxPlugin",
-    "preferNameDirectory": true,
+    "preferNameDirectory": false,
     "symbols":{
       "pluginId": {
         "type": "generated",
@@ -22,7 +22,7 @@
       },
       "author": {
         "type": "parameter",
-        "defaultValue": "",
+        "defaultValue": "AuthorName",
         "replaces":"PluginAuthor"
       },
       "keyword": {
