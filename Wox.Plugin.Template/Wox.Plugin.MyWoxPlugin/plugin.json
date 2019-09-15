@@ -1,7 +1,7 @@
 {
     "ID":"PluginId",
     "ActionKeyword":"PluginActionKeyword",
-    "Name":"MyWoxPlugin",
+    "Name":"Wox.Plugin.MyWoxPlugin",
     "Description":"a new plugin for Wox",
     "Author":"PluginAuthor",
     "Version":"1.0.0",

@@ -1,3 +1,4 @@
+Wox.Plugin.MyWoxPlugin
 ==================
 
 A plugin for the [Wox launcher](https://github.com/Wox-launcher/Wox).
