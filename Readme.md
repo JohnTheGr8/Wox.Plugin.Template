@@ -9,4 +9,4 @@ A dotnet CLI template to start off plugins for the [Wox launcher](https://github
 
 ### Usage
 
-    dotnet new wox-plugin --name SamplePlugin
+    dotnet new wox-plugin --name SamplePlugin --author MyUsername
