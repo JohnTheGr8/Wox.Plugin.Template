@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Description>Wox Plugin template for dotnet-new.</Description>
+    <Authors>Ioannis G.</Authors>
+    <PackageProjectUrl>https://github.com/JohnTheGr8/Wox.Plugin.Template</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/JohnTheGr8/Wox.Plugin.Template.git</RepositoryUrl>
+    <PackageTags>wox-launcher;wox-plugin;template;dotnet-new</PackageTags>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <PackageType>Template</PackageType>
+    <NoBuild>true</NoBuild>
+    <IncludeContentInPack>true</IncludeContentInPack>
+    <IncludeBuildOutput>false</IncludeBuildOutput>
+    <ContentTargetFolders>content</ContentTargetFolders>
+    <TargetFramework>netstandard0.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Wox.Plugin.Template\**\*" Exclude="Wox.Plugin.Template\**\bin\**;Wox.Plugin.Template\**\obj\**" />
+    <Compile Remove="**\*" />
+  </ItemGroup>
+</Project>
