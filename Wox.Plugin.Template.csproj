@@ -15,6 +15,7 @@
     <NoBuild>true</NoBuild>
     <IncludeContentInPack>true</IncludeContentInPack>
     <IncludeBuildOutput>false</IncludeBuildOutput>
+    <NoDefaultExcludes>true</NoDefaultExcludes>
     <ContentTargetFolders>content</ContentTargetFolders>
     <TargetFramework>netstandard0.0</TargetFramework>
   </PropertyGroup>
