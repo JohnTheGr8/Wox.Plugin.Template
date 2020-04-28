@@ -10,8 +10,9 @@
     <PackageTags>wox-launcher;wox-plugin;template;dotnet-new</PackageTags>
     <NeutralLanguage>en-US</NeutralLanguage>
     <PackageType>Template</PackageType>
-    <PackageVersion>1.0.0</PackageVersion>
-    <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
+    <PackageVersion>1.1.0</PackageVersion>
+    <PackageReleaseNotes>* fix: include .gitignore in template content
+* add appveyor config to template content</PackageReleaseNotes>
     <NoBuild>true</NoBuild>
     <IncludeContentInPack>true</IncludeContentInPack>
     <IncludeBuildOutput>false</IncludeBuildOutput>
